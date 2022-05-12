@@ -15,7 +15,7 @@ Putting
       <version>1.2.17</version>
   </dependency>
 ```  
-into the pom.xml file of an eclipse IDE project pulled in
+into the pom.xml file of an eclipse IDE project pulled in  
 C:\Users\TPMoyer\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
 
 I simply renamed this to log4j_1_2_17.jar and framed it into the directory structure required by processing.
