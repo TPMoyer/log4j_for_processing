@@ -6,13 +6,15 @@ pulling the most recent version the mavin repository https://mvnrepository.com/a
 The 1.2.17 has been the most recent version sence may 2012
 
 Processing has requirements on naming for it's libraries which the default maven output did not abide.
-Putting 
+Putting
+```
   <!-- https://mvnrepository.com/artifact/log4j/log4j -->
   <dependency>
       <groupId>log4j</groupId>
       <artifactId>log4j</artifactId>
       <version>1.2.17</version>
   </dependency>
+```  
 into the pom.xml file of an eclipse IDE project pulled in
 C:\Users\TPMoyer\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
 
